@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ryo575
-- 👀 I’m interested in eXplainable XAI, Concept-based explanation.
+- 👀 I’m interested in eXplainable AI, Concept-based explanation.
 - 🌱 I’m currently learning eXplainable AI.
 - 📫 How to reach me: 7424525@ed.tus.ac.jp
 
